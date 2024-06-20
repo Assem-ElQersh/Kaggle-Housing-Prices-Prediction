@@ -10,7 +10,7 @@ This repository contains Python code for predicting house prices using advanced 
 
 ## Description
 
-This project aims as a solution for this [problem](https://www.kaggle.com/c/home-data-for-ml-course) to predict house prices using a dataset that includes various features such as lot size, neighborhood, number of rooms, and more. The steps involved in the project are as follows:
+This project aims as a solution for this [problem](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) to predict house prices using a dataset that includes various features such as lot size, neighborhood, number of rooms, and more. The steps involved in the project are as follows:
 
 1. **Data Preprocessing**:
    - Importing and cleaning datasets.
