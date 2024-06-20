@@ -68,4 +68,4 @@ This Repo is mainly inspired by the [Solution of gvndkrishna](https://github.com
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/Assem-ElQersh/Kaggle-Housing-Prices-Prediction/blob/main/LICENSE) file for details.
