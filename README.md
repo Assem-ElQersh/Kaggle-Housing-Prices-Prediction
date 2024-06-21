@@ -63,8 +63,6 @@ pip install -r requirements.txt
 ## Contributors
 
 - [Assem ElQersh](https://github.com/Assem-ElQersh)
-  
-This Repo is mainly inspired by the [Solution of gvndkrishna](https://github.com/gvndkrishna/Kaggle-House-Price-Prediction) 
 
 ## License
 
